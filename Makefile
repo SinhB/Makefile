@@ -6,7 +6,7 @@
 #    By: yabecret <yabecret@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/05 13:54:12 by yabecret          #+#    #+#              #
-#    Updated: 2019/04/05 14:35:20 by yabecret         ###   ########.fr        #
+#    Updated: 2019/04/05 14:42:17 by yabecret         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,7 +30,7 @@ LDFLAGS		= -Llibft
 LDLIBS		= -lft
 
 SRC_NAME 	=
-				<source_name>
+				<source_name>							\
 
 
 OBJ_NAME = $(SRC_NAME:.c=.o)
