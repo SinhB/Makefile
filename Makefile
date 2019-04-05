@@ -6,17 +6,17 @@
 #    By: yabecret <yabecret@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/05 13:54:12 by yabecret          #+#    #+#              #
-#    Updated: 2019/04/05 13:54:25 by yabecret         ###   ########.fr        #
+#    Updated: 2019/04/05 14:35:20 by yabecret         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # Executable
-NAME 	= 	<exec_name>
+NAME	=	<exec_name>
 
 # Compilation
-CC		= 	@cc
-CFLAGS	= 	-Wall -Wextra -Werror
-CPPFLAGS = -Iincludes
+CC			=	@cc
+CFLAGS		=	-Wall -Wextra -Werror
+CPPFLAGS	=	-Iincludes
 
 # Files && Objs
 
